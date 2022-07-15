@@ -16,4 +16,4 @@ Para la obtencion de datos se obtuvo de un Dataset donde se encuentra las varian
 Output variable (based on sensory data):
 12 - quality (score between 0 and 10)
 
-De las cuales para este proyecto se considero las variables residual sugar y alcohol, el cual representa la cntidad de gramos de azucar y grados de alcohol respectivamente de cada vino en cuestion para luego poder ordenarlos de mayor a menor y establecer una escala que permita saber que vinos son fuertes, medios, bajos.
+De las cuales para este proyecto se considero las variables residual sugar y alcohol, el cual representa la cantidad de gramos de azucar y grados de alcohol respectivamente de cada vino en cuestion para luego poder ordenarlos de mayor a menor y establecer una escala que permita saber que vinos son fuertes, medios, bajos.
