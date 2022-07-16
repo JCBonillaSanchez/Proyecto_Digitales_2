@@ -1,6 +1,6 @@
 # Proyecto_Digitales_2
 
-Para la obtencion de datos se obtuvo de un Dataset donde se encuentra las variantes de vino blanco de origen Portugues llamado "Vinho Verde" donde se destacan las siguientes variables:
+Para la obtencion de datos se descargo de un Dataset donde se encuentra las variantes de vino blanco de origen Portugues llamado "Vinho Verde" donde se destacan las siguientes variables:
 
 1 - fixed acidity
 2 - volatile acidity
