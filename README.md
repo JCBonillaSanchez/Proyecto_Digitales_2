@@ -17,3 +17,7 @@ Output variable (based on sensory data):
 12 - quality (score between 0 and 10)
 
 De las cuales para este proyecto se considero las variables residual sugar y alcohol, el cual representa la cantidad de gramos de azucar y grados de alcohol respectivamente de cada vino en cuestion para luego poder ordenarlos de menor a mayor.
+
+Presentado por:
+Juan Carlos Bonilla Sanchez
+Teddy Jamil Oñate Freire
